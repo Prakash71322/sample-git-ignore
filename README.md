@@ -1,1 +1,2 @@
-# sample-git-ignore
+# sample-git-ignore by Prakash
+
